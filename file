@@ -1,0 +1,16 @@
+commit - a snapshot of your repo at a specific point in time commits create a history record of your project 
+
+branch - moveable pointer to a commit branch alloy you to to work on diff ver of project simultaneously
+
+merge - the process of comining change from different branch
+
+clone - copy of of a repo that resides on your local machine rather than on a server somewhere 
+
+cd - change dir 
+
+git init 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github......
+git push -u origin main
+
