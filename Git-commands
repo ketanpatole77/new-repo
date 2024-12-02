@@ -1,0 +1,6 @@
+essential a git repository - git init 
+clone repository - git clone [repository URL]
+essential command - git add [file directory]
+commit with a message - git commit -m "[commit message]"
+pull changes - git pull 
+push changes - git push 
